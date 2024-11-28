@@ -1,0 +1,100 @@
+Color Name;Criteria:
+Black;"RGB
+Red: 0% - 20%
+Green: 0% - 20%
+Blue: 0% - 20%
+Hue (HSL/HSV): 0° - 360°
+Saturation (HSL): 0% - 20%
+Saturation (HSV): 0% - 20%
+Light (HSL): 0% - 20%
+Value (HSV): 0% - 20%"
+Blue;"RGB
+Red: 0% - 30%
+Green:   0% - 30%
+Blue: 70% - 100%
+Hue (HSL/HSV): 180° - 250°
+Saturation (HSL): 70% - 100°
+Saturation (HSV):70% - 100%
+Light (HSL): 30% - 60%
+Value (HSV): 60% - 100%"
+Brown;"RGB
+Red: 40% - 60%
+Green: 20% - 40%
+Blue: 0% - 20%
+Hue (HSL/HSV): 30°  - 45°
+Saturation (HSL): 30% - 80%
+Saturation (HSV): 30% -80%
+Light (HSL): 30% - 60%
+Value (HSV): 40% - 80%"
+Cyan;"RGB
+Red: 0% - 20%
+Green: 70% - 100%
+Blue: 70% - 100%
+Hue (HSL/HSV): 150° - 180°
+Saturation (HSL): 60% - 100%
+Saturation (HSV): 70% - 100%
+Light (HSL): 40% - 70%
+Value (HSV): 70% - 100%"
+Gray;"RGB
+Red: 40% - 60%
+Green: 40% - 60%
+Blue: 40% - 60%
+Hue (HSL/HSV): 0° - 360°
+Saturation (HSL): 0% - 20%
+Saturation (HSV): 0% - 20%
+Light (HSL): 40% - 60%
+Value (HSV): 40% - 60%"
+Green;"RGB
+Red: 0% - 30%
+Green: 70% - 100%
+Blue: 0% - 30%
+Hue (HSL/HSV): 90° - 150°
+Saturation (HSL): 60% - 100%
+Saturation (HSV): 70% - 100%
+Light (HSL): 30% - 100%
+Value (HSV): 60% - 100%"
+Purple;"RGB
+Red: 50% - 80%
+Green: 0% - 30%
+Blue: 50% - 80%
+Hue (HSL/HSV): 250° - 320°
+Saturation (HSL): 50% - 100%
+Saturation (HSV): 50% - 100%
+Light (HSL): 30% - 60%
+Value (HSV): 50% - 100%"
+Red;"RGB
+Red: 80% - 100%
+Green: 0% - 20%
+Blue: 0% - 20%
+Hue (HSL/HSV): 0° - 30°
+Saturation (HSL): 80% - 100%
+Saturation (HSV): 80% - 100%
+Light (HSL): 30% - 60%
+Value (HSV): 70% - 100%"
+Teal;"RGB
+Red: 0% - 20%
+Green: 60% - 100%
+Blue: 60% - 100%
+Hue (HSL/HSV): 150° - 180°
+Saturation (HSL): 60% - 100%
+Saturation (HSV): 60% - 100%
+Light (HSL): 40% - 70%
+Value (HSV): 70% - 100%"
+White;"RGB
+Red: 90% - 100%
+Green: 90% - 100%
+Blue: 90% - 100%
+Hue (HSL/HSV): 0° - 360°
+Saturation (HSL): 0% - 20%
+Saturation (HSV): 0% - 20%
+Light (HSL): 80% - 100%
+Value (HSV): 80% - 100%"
+Yellow;"RGB
+Red: 80% - 100%
+Green: 80% - 100%
+Blue: 0% - 20%
+Hue (HSL/HSV): 60° - 90°
+Saturation (HSL): 80% - 100%
+Saturation (HSV): 0% - 20%
+Light (HSL): 50% - 80%
+Value (HSV): 70% - 100%"
